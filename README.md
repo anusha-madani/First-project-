@@ -1,4 +1,4 @@
-# First-project-
-my  first project
+# First-project
+Git and Github project
 <br>
 author name is anusha
