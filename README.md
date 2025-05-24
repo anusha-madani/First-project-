@@ -1,4 +1,4 @@
 # First-project
 Git and Github project
 <br>
-author name is anusha
+author name is anusha madani
